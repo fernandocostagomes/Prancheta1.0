@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Jogo">
+        <menu>
+            <item
+                android:id="@+id/new_game"
+                android:icon="@android:drawable/ic_input_add"
+                android:title="Nova pelada"/>
+            <item
+                android:id="@+id/found_game"
+                android:icon="@android:drawable/ic_menu_search"
+                android:title=" pelada"/>
+        </menu>
+    </item>
+
+    <item android:title="Jogador">
+        <menu>
+            <item
+                android:id="@+id/new_play"
+                android:icon="@android:drawable/ic_menu_add"
+                android:title="Novo Jogador"/>
+            <item
+                android:id="@+id/found_play"
+                android:icon="@android:drawable/ic_menu_search"
+                android:title="Buscar Jogador"/>
+        </menu>
+    </item>
+
+</menu>

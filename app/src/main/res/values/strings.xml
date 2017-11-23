@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Peladas</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_player">Cadastro Jogador</string>
+    <string name="title_activity_new_game">Nova Pelada</string>
+
+
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+
+
+    <string name="tvTitleArrivalOrder">Ordem de chegada</string>
+
+</resources>
